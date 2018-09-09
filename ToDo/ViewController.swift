@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  ToDo
 //
-//  Created by 築山朋紀 on 2018/09/10.
-//  Copyright © 2018年 築山朋紀. All rights reserved.
-//
 
 import UIKit
 
